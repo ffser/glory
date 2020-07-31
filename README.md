@@ -1,1 +1,1 @@
-# <center>SELECT * FROM LEARN</center>
+# <center>SELECT * FROM LEARN1</center>
